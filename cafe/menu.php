@@ -23,7 +23,7 @@
 	?>
 	<hr>
 	<div class="topnav">
-		<a href="index.php">Home</a>
+		<a href="index.php">House</a>
 		<a href="menu.php" class="active">Menu</a>
 		<a href="orderHistory.php">Order History</a>
 	</div>
