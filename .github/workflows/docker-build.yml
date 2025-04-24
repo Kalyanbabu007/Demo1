@@ -3,10 +3,10 @@ name: Build Docker image and push to ECR
 on:
   push:
     branches:
-      - ECS2  # or main, depending on your setup
+      - ecs1  # or main, depending on your setup
   pull_request:
     branches:
-      - ECS2
+      - ecs1
 
 jobs:
   build:
